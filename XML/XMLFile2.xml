@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<paketler>
+  <paket>
+    <ad>SuperNet</ad>
+    <fiyat>59</fiyat>
+    <akk>50</akk>
+    <taahhut>24</taahhut>
+  </paket>
+  <paket>
+    <ad>FiberNet</ad>
+    <fiyat>79</fiyat>
+    <akk>99</akk>
+    <taahhut>42</taahhut>
+  </paket>
+  <paket>
+    <ad>HiperNet</ad>
+    <fiyat>199</fiyat>
+    <akk>0</akk>
+    <taahhut>36</taahhut>
+  </paket>
+  <paket>
+    <ad>HesaplıNet</ad>
+    <fiyat>12</fiyat>
+    <akk>10</akk>
+    <taahhut>18</taahhut>
+  </paket>
+</paketler>

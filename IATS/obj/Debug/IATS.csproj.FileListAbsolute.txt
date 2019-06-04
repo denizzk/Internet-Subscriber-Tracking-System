@@ -1,0 +1,98 @@
+d:\zalman\documents\visual studio 2015\Projects\IATS\IATS\bin\Debug\IATS.exe.config
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\IATS.exe
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\IATS.pdb
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.csprojResolveAssemblyReference.cache
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.Login.resources
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.Properties.Resources.resources
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.csproj.GenerateResource.Cache
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.exe
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.pdb
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.Container.resources
+d:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.AboneList.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.AboneKayit.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.AboneUpdate.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.AboneSil.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.PaketEkle.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.PaketUpdate.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.PaketSil.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.total.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form10.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form2.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form3.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form4.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form5.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form6.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form7.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form8.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form9.resx
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form10.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form10.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form2.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form2.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form3.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form3.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form4.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form4.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form5.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form5.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form6.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form6.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form7.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form7.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form8.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form8.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form9.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Form9.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.total.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.Container.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.AboneKayit.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.AboneList.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.AboneUpdate.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.AboneSil.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.PaketEkle.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.PaketUpdate.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.PaketSil.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.Properties.Resources.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.csproj.GenerateResource.Cache
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.exe
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.pdb
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\IATS.exe.config
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\IATS.exe
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\IATS.pdb
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\Database1.mdf
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\Database1_log.ldf
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.PaketList.resources
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Database1.mdf
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\bin\Debug\Database1_log.ldf
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.PaketList.resources
+C:\Users\Deniz\source\repos\IATS\IATS\obj\Debug\IATS.LoginForm.resources
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\ToplamFaturaForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\MDIForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneKayıtForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneListForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneUpdateForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneDeleteForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketEkleForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketUpdateForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketDeleteForm.resx
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\ToplamFaturaForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\ToplamFaturaForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\MDIForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\MDIForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneKayıtForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneKayıtForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneListForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneListForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneUpdateForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneUpdateForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneDeleteForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\AboneDeleteForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketEkleForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketEkleForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketUpdateForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketUpdateForm.Designer.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketDeleteForm.cs
+C:\Users\Deniz\source\repos\IATS\IATS\bin\Debug\PaketDeleteForm.Designer.cs
+D:\Zalman\Documents\Visual Studio 2015\Projects\IATS\IATS\obj\Debug\IATS.csprojAssemblyReference.cache

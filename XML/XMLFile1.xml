@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aboneler>
+  <abone>
+    <ad>Osman</ad>
+    <soyad>Veli</soyad>
+    <tc>28969780290</tc>
+    <anneKizlik>Semiha</anneKizlik>
+    <tel>(507) 720-3534</tel>
+    <adres>Hacıveli cad bla bla bla</adres>
+    <baglantiYer>İş</baglantiYer>
+    <aboneTip>Kurumsal</aboneTip>
+    <iPaket>SuperNet</iPaket>
+    <paketFiyat>79</paketFiyat>
+    <akk>99</akk>
+    <taahhut>42</taahhut>
+  </abone>
+  <abone>
+    <ad>Deniz</ad>
+    <soyad>Karakaya</soyad>
+    <tc>28969780291</tc>
+    <anneKizlik>Şentürk</anneKizlik>
+    <tel>(507) 720-3534</tel>
+    <adres>Mansuroğlu mah.</adres>
+    <baglantiYer>Ev</baglantiYer>
+    <aboneTip>Bireysel</aboneTip>
+    <iPaket>HesaplıNet</iPaket>
+    <paketFiyat>12</paketFiyat>
+    <akk>10</akk>
+    <taahhut>18</taahhut>
+  </abone>
+  <abone>
+    <ad>Deneme</ad>
+    <soyad>Deneme</soyad>
+    <tc>12345678900</tc>
+    <anneKizlik>Deneme</anneKizlik>
+    <tel>(999) 999-9999</tel>
+    <adres>DenemeDenemeDenemeDenemeDenemeDenemeDenemeDenemeDenemeDenemeDeneme</adres>
+    <baglantiYer>Ev</baglantiYer>
+    <aboneTip>Kurumsal</aboneTip>
+    <iPaket>HiperNet</iPaket>
+    <paketFiyat>199</paketFiyat>
+    <akk>0</akk>
+    <taahhut>36</taahhut>
+  </abone>
+  <abone>
+    <ad>Ayşe</ad>
+    <soyad>Yıldırım</soyad>
+    <tc>28969780292</tc>
+    <anneKizlik>Şimşek</anneKizlik>
+    <tel>(507) 720-3436</tel>
+    <adres>inönü caddesi</adres>
+    <baglantiYer>İş</baglantiYer>
+    <aboneTip>Kurumsal</aboneTip>
+    <iPaket>HesaplıNet</iPaket>
+    <paketFiyat>12</paketFiyat>
+    <akk>40</akk>
+    <taahhut>18</taahhut>
+  </abone>
+  <abone>
+    <ad>Mahmut</ad>
+    <soyad>Teke</soyad>
+    <tc>28969780293</tc>
+    <anneKizlik>Tek</anneKizlik>
+    <tel>(507) 720-3536</tel>
+    <adres>asdfgaasdasf</adres>
+    <baglantiYer>Ev</baglantiYer>
+    <aboneTip>Bireysel</aboneTip>
+    <iPaket>FiberNet</iPaket>
+    <paketFiyat>79</paketFiyat>
+    <akk>99</akk>
+    <taahhut>42</taahhut>
+  </abone>
+</aboneler>
